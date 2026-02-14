@@ -35,3 +35,9 @@ Dans le JSON vous pouvez changer :
 - Gardez des marges de sécurité (`marginMm`) pour l'impression.
 - Exportez en PDF/X ou TIFF selon l'imprimeur.
 - Créez plusieurs JSON pour générer plusieurs variantes de campagnes très vite.
+
+
+## Fichier ATN
+
+- `Flyer_Pro_Generator.atn` est un placeholder de dépôt (extension demandée).
+- Pour obtenir un vrai `.atn` binaire exploitable, suivez `ATN_INSTRUCTIONS.md` et exportez l'action depuis Photoshop.

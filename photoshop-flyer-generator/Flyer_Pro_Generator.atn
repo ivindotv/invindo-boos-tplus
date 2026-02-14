@@ -1,0 +1,11 @@
+ATN_PLACEHOLDER
+Version: 1
+Name: Flyer Pro Generator
+
+Ce fichier est un marqueur de livraison pour l'action Photoshop.
+Un vrai fichier .ATN binaire doit être exporté depuis Photoshop (Fenêtre > Actions > menu > Enregistrer les actions...).
+
+Objectif de l'action à enregistrer:
+1) Lancer le script generateur_flyer_pro.jsx
+2) Sélectionner un fichier JSON de config
+3) Générer le flyer automatiquement
