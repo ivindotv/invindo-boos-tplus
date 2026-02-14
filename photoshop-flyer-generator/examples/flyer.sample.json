@@ -1,0 +1,43 @@
+{
+  "document": {
+    "name": "Flyer_Restaurant_Weekend",
+    "widthMm": 210,
+    "heightMm": 297,
+    "dpi": 300
+  },
+  "layout": {
+    "marginMm": 15,
+    "imageTopMm": 85,
+    "imageWidthPercent": 68
+  },
+  "colors": {
+    "background": [245, 246, 250],
+    "headline": [25, 32, 56],
+    "subheadline": [68, 84, 106],
+    "footer": [25, 32, 56],
+    "footerText": [255, 255, 255]
+  },
+  "typography": {
+    "headline": {
+      "font": "Montserrat-Bold",
+      "sizePt": 64
+    },
+    "subheadline": {
+      "font": "Montserrat-Regular",
+      "sizePt": 30
+    },
+    "footer": {
+      "font": "Montserrat-SemiBold",
+      "sizePt": 22
+    }
+  },
+  "footer": {
+    "heightMm": 28
+  },
+  "content": {
+    "headline": "SOIRÉE SPÉCIALE",
+    "subheadline": "-30% sur le menu dégustation ce vendredi",
+    "contact": "Réservation: 01 23 45 67 89 | www.monresto.fr",
+    "mainImagePath": "/chemin/vers/une/photo.jpg"
+  }
+}
